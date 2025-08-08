@@ -13,7 +13,7 @@ AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
 // make true if you want auto reply on status 
 AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
 // make true if you want auto reply on status 
-AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY DARKZONE-MD 🤍*",
+AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY DINU-MD-BOT 🤍*",
 // set the auto reply massage on status reply  
 ANTI_DELETE: process.env.ANTI_DELETE || "true",
 // set true false for anti delete     
@@ -27,13 +27,13 @@ ANTI_LINK: process.env.ANTI_LINK || "true",
 // make anti link true,false for groups 
 MENTION_REPLY: process.env.MENTION_REPLY || "false",
 // make true if want auto voice reply if someone menetion you 
-MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/4964gx.jpg",
+MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://yt3.googleusercontent.com/z2w0NyQKv9HTqytZ6yH136RJ5hBnsOxh4QQw_cCH6FKMoYiu2SlFsnEB-Ic87XFuaFPPPyM_QQ=s176-c-k-c0x00ffffff-no-rj-mo",
 // add custom menu and mention reply image url
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
-BOT_NAME: process.env.BOT_NAME || "DARKZONE-MD",
+BOT_NAME: process.env.BOT_NAME || "•°Dinu Bot MD°•",
 // add bot namw here for menu
-STICKER_NAME: process.env.STICKER_NAME || "DARKZONE-MD",
+STICKER_NAME: process.env.STICKER_NAME || "•°Dinu Bot MD°•",
 // type sticker pack name 
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 // make this true for custum emoji react    
@@ -41,15 +41,15 @@ CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️�
 // chose custom react emojis by yourself 
 DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links witho remove member 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "923306137477",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "94785602293",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "𝐸𝑅𝐹𝒜𝒩 𝒜𝐻𝑀𝒜𝒟",
+OWNER_NAME: process.env.OWNER_NAME || "dInEtH_rUsIrU - DINETH GEEK YT",
 // add bot owner name
-DESCRIPTION: process.env.DESCRIPTION || "*© CREATER 𝐸𝑅𝐹𝒜𝒩 𝒜𝐻𝑀𝒜𝒟 *",
+DESCRIPTION: process.env.DESCRIPTION || "*© CREATER dInEtH_rUsIrU - DINETH GEEK YT*",
 // add bot owner name    
-ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/4964gx.jpg",
+ALIVE_IMG: process.env.ALIVE_IMG || "https://yt3.googleusercontent.com/z2w0NyQKv9HTqytZ6yH136RJ5hBnsOxh4QQw_cCH6FKMoYiu2SlFsnEB-Ic87XFuaFPPPyM_QQ=s176-c-k-c0x00ffffff-no-rj-mo",
 // add img for alive msg
-LIVE_MSG: process.env.LIVE_MSG || "> HEY IM ALIVE NOW  *DARKZONE-MD*⚡",
+LIVE_MSG: process.env.LIVE_MSG || "> HEY IM ALIVE NOW  *•°Dinu Bot MD°•*⚡",
 // add alive msg here 
 READ_MESSAGE: process.env.READ_MESSAGE || "false",
 // Turn true or false for automatic read msgs

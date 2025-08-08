@@ -1,8 +1,8 @@
 {
-  "name": "DARKZONE-MD",
-  "description": "Javascript WhatsApp bot made by 𝐸𝑅𝐹𝒜𝒩 𝒜𝐻𝑀𝒜𝒟",
-  "logo": "https://files.catbox.moe/r2ncqh",
-  "keywords": ["DARKZONE-MD"],
+  "name": "•°Dinu-MD°•",
+  "description": "Javascript WhatsApp bot made by •°Dinu-MD°•",
+  "logo": "https://yt3.googleusercontent.com/z2w0NyQKv9HTqytZ6yH136RJ5hBnsOxh4QQw_cCH6FKMoYiu2SlFsnEB-Ic87XFuaFPPPyM_QQ=s176-c-k-c0x00ffffff-no-rj-mo",
+  "keywords": ["°Dinu-MD°"],
   "success_url": "/",
 
     "stack": "container",
@@ -78,27 +78,27 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY DARKZONE-MD 🖤*"
+      "value": "*SEEN YOUR STATUS BY •°Dinu-MD°• 🖤*"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "ERFAN"
+      "value": "Dineth Geek"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "923306137477"
+      "value": "94785602293"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "DARKZONE-MD"
+      "value": "•°Dinu-MD°•"
 
       }, 
 
@@ -131,13 +131,13 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://files.catbox.moe/4964gx.jpg"
+      "value": "https://yt3.googleusercontent.com/z2w0NyQKv9HTqytZ6yH136RJ5hBnsOxh4QQw_cCH6FKMoYiu2SlFsnEB-Ic87XFuaFPPPyM_QQ=s176-c-k-c0x00ffffff-no-rj-mo"
     },
     
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*CRESTER 𝐸𝑅𝐹𝒜𝒩 𝒜𝐻𝑀𝒜𝒟*"
+      "value": "*•°Dinu-MD°• - by Dineth Geek*"
     },
 
       "DELETE_LINKS": {
